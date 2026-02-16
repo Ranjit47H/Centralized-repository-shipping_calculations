@@ -7,6 +7,7 @@ rate = float(input("Enter the shipping rate per kilogram: "))
 ## Calculate shipping cost
 shipping_cost = weight * rate
  # Here is a new update by <your GitHub username>
+ #git push --set-upstream origin shipping_calculator_fixes
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
